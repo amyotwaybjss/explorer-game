@@ -1,4 +1,4 @@
-*.csv
+references/*
 .git/*
 .idea/*
 .DS_Store
